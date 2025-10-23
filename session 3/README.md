@@ -339,3 +339,15 @@ Your Use Case
 | **Assets**     | Single   | Single   |
 | **Complexity** | Simple   | Medium   |
 | **Best For**   | DeFi     | RWAs     |
+
+---
+
+## Resources
+
+**Vault Standards:**
+
+- ERC-4626 Spec: https://eips.ethereum.org/EIPS/eip-4626
+- ERC-7540 Spec: https://eips.ethereum.org/EIPS/eip-7540
+- OpenZeppelin Docs: https://docs.openzeppelin.com/contracts/5.x/erc4626
+
+---

@@ -372,3 +372,14 @@ NYSE/NASDAQ/CME            dYdX/Hyperliquid
 ✓ **Maturation:** DeFi grows up
 
 **Market Opportunity:** $10+ trillion TradFi derivatives → DeFi
+
+---
+
+## Resources
+
+**CLOB DEX:**
+
+- dYdX Documentation: https://docs.dydx.exchange
+- Hyperliquid Docs: https://hyperliquid.gitbook.io
+
+---
