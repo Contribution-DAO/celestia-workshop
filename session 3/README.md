@@ -151,6 +151,8 @@ contract MyVault is ERC4626 {
 }
 ```
 
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/1cf13771092c83a060eaef0f8809493fb4c04eb1/contracts/token/ERC20/extensions/ERC4626.sol
+
 **OpenZeppelin handles all the complexity!**
 
 Add your custom strategy logic as needed.
@@ -349,5 +351,6 @@ Your Use Case
 - ERC-4626 Spec: https://eips.ethereum.org/EIPS/eip-4626
 - ERC-7540 Spec: https://eips.ethereum.org/EIPS/eip-7540
 - OpenZeppelin Docs: https://docs.openzeppelin.com/contracts/5.x/erc4626
+- OpenZeppelin ERC-4626 Contract: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/1cf13771092c83a060eaef0f8809493fb4c04eb1/contracts/token/ERC20/extensions/ERC4626.sol
 
 ---
