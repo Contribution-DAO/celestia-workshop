@@ -24,7 +24,7 @@ contract BondedToken is ERC20 {
     event Sold(address indexed seller, uint256 amount, uint256 ethReceived);
 
     // --- Constructor ---
-    constructor() ERC20("Bonded Token", "BOND") {}
+    constructor(string memory name, string memory symbol) ERC20(name, symbol) {}
 
     // --- View Functions (To check prices) ---
 
